@@ -1,0 +1,168 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2020 17:12:54] "[35m[1mGET /DetectWorkType HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2020 17:14:29] "[35m[1mGET /DetectWorkType?department=develop&set_texts=gfv&set_texts=пам HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2020 17:17:52] "[35m[1mGET /DetectWorkType?department=develop&set_texts=gfv&set_texts=пам HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2020 17:23:07] "[35m[1mGET /DetectWorkType?department=develop&set_texts=das HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2020 17:25:21] "[35m[1mGET /DetectWorkType?department=develop&set_texts=расчет+сеестоимости HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2020 17:26:58] "[35m[1mGET /DetectWorkType?department=develop&text=расчет+сеестоимости HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2020 17:29:51] "[35m[1mGET /DetectWorkType?department=develop&text=расчет+сеестоимости HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2020 17:30:25] "[35m[1mGET /DetectWorkType?department=develop&text=расчет+себестоимости HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2020 17:31:01] "[37mGET /DetectWorkType?department=develop&text=расчет+себестоимости HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\timur.borisevich\\PycharmProjects\\URV\\Learning.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Nov/2020 17:31:31] "[35m[1mGET /DetectWorkType?department=develop&text=расчет+себестоимости HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 16:53:45] "[37mGET /DetectWorkType?department=develop&text=расчет+себестоимости HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:40:51] "[37mGET /DetectWorkType?department=develop&text=расчет+себестоимости+для+клиента HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:41:00] "[37mGET /DetectWorkType?department=develop&text=расчет+себестоимости+у+клиента HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:41:05] "[37mGET /DetectWorkType?department=develop&text=расчет+себестоимости HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:41:22] "[37mGET /DetectWorkType?department=develop&text=консультации+клиента HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:41:36] "[37mGET /DetectWorkType?department=develop&text=кфыф HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:42:06] "[37mGET /DetectWorkType?department=consult&text=кфыф HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:42:13] "[37mGET /DetectWorkType?department=consult&text=кфыф HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:42:17] "[37mGET /DetectWorkType?department=consult&text=sadasd HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:42:23] "[37mGET /DetectWorkType?department=consult&text=ыффф HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:44:52] "[37mGET /DetectWorkType?department=consult&text=ыффф HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:44:56] "[37mGET /DetectWorkType?department=develop&text=летучка+ОР HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:45:04] "[37mGET /DetectWorkType?department=consult&text=летучка+ОР HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:45:13] "[37mGET /DetectWorkType?department=consult&text=планерка HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:45:21] "[37mGET /DetectWorkType?department=develop&text=планерка HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:45:39] "[37mGET /DetectWorkType?department=consult&text=написание+отчета+о+ДО HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:45:52] "[37mGET /DetectWorkType?department=develop&text=написание+отчета+о+ДО HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:46:00] "[37mGET /DetectWorkType?department=consult&text=написание+отчета+о+ДО HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 318-696-221
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:51:26] "[37mGET /DetectWorkType?department=consult&text=расчет+себестоимости HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:51:29] "[37mGET /DetectWorkType?department=develop&text=расчет+себестоимости HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:52:06] "[37mGET /DetectWorkType?department=consult&text=демонстрация HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 17:52:11] "[37mGET /DetectWorkType?department=develop&text=демонстрация HTTP/1.1[0m" 200 -
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:werkzeug: * Running on http://0.0.0.0:5555/ (Press CTRL+C to quit)
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:werkzeug: * Running on http://0.0.0.0:5555/ (Press CTRL+C to quit)
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
+INFO:pymorphy2.opencorpora_dict.wrapper:Loading dictionaries from C:\Users\timur.borisevich\PycharmProjects\URV\venv\lib\site-packages\pymorphy2_dicts_ru\data
+INFO:pymorphy2.opencorpora_dict.wrapper:format: 2.4, revision: 417127, updated: 2020-10-11T15:05:51.070345
