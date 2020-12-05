@@ -10,10 +10,8 @@ def pars_environ(environ):
     return params_dic
 
 def app(environ, start_response):
-    # start_response('200 OK', [('Content-Type', 'text/plain')])
-    # environ = environ['QUERY_STRING']
-
-    environ = 'text=демонстрация&department=consult'
+    start_response('200 OK', [('Content-Type', 'text/plain')])
+    environ = environ['QUERY_STRING']
     params_dic = pars_environ(environ)
     answer = DetectWorkType(params_dic['text'], params_dic['text'])
     return [bytes(str(answer), encoding="utf8")]
