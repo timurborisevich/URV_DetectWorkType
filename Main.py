@@ -1,6 +1,6 @@
 import joblib
 import inspect, os.path
-from tokenizer import tokenize_text_simple_regex
+# from tokenizer import tokenize_text_simple_regex
 import logging
 logging.basicConfig(filename='error.log',level=logging.DEBUG)
 
