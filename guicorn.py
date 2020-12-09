@@ -16,5 +16,4 @@ def app(environ, start_response):
     answer = DetectWorkType(params_dic['text'], params_dic['text'])
     return [bytes(str(answer), encoding="utf8")]
 
-# 5000
 bind = "0.0.0.0:5000"
