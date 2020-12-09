@@ -1,8 +1,8 @@
 import joblib
 import inspect, os.path
 # from tokenizer import tokenize_text_simple_regex
-import logging
-logging.basicConfig(filename='error.log',level=logging.DEBUG)
+# import logging
+# logging.basicConfig(filename='error.log',level=logging.DEBUG)
 
 import pymorphy2 # лемматизация
 import re
