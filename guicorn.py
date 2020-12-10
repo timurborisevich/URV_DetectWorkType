@@ -14,7 +14,7 @@ def app(environ, start_response):
     start_response('200 OK', [('Content-Type', 'text/plain')])
     environ = unquote(environ['QUERY_STRING'])
     params_dic = pars_environ(environ)
-    answer = DetectWorkType(params_dic['text'], params_dic['text'])
+    answer = DetectWorkType(params_dic['text'], params_dic['department'])
     return [bytes(str(answer), encoding="utf8")]
 
 bind = "0.0.0.0:5555"
