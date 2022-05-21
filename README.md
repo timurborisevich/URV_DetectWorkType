@@ -16,10 +16,10 @@
 
 Данные для обучения:
 
-<code>[Аналитики](https://github.com/timurborisevich/URV_DetectWorkType/tree/master/data/ОВИК.xlsx "")</code>
+[Аналитики](https://github.com/timurborisevich/URV_DetectWorkType/tree/master/data/ОВИК.xlsx "")
 
-<code>[Разработчики](https://github.com/timurborisevich/URV_DetectWorkType/tree/master/data/ОР.xlsx "")</code>
+[Разработчики](https://github.com/timurborisevich/URV_DetectWorkType/tree/master/data/ОР.xlsx "")
 
 ### Результаты на валидации:  
 
-![Scrin1](https://github.com/timurborisevich/URV_DetectWorkType/tree/master/Scrin1.PNG "")</code>
+<code>![Scrin1](https://github.com/timurborisevich/URV_DetectWorkType/blob/master/Scrin1.PNG "")</code>
