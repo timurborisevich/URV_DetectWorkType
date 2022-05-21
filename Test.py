@@ -1,3 +1,3 @@
 from Main import DetectWorkType
 
-print(DetectWorkType('расчет себестоимости', 'consult'))
+print(DetectWorkType('Расчет себестоимости', 'consult'))
