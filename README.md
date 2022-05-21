@@ -22,4 +22,4 @@
 
 ### Результаты на валидации:  
 
-![Scrin1](https://github.com/timurborisevich/Vacancy-analysis/blob/master/Scrin1.PNG "")</code>
+![Scrin1](https://github.com/timurborisevich/URV_DetectWorkType/tree/master/Scrin1.PNG "")</code>
